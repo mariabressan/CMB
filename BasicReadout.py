@@ -13,6 +13,7 @@ import Readout
 import time
 import numpy as np
 import os
+import usb
 from ProgressBar import printProgress
 
 # =========
