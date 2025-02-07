@@ -42,9 +42,9 @@ else:
 
 # Set heading information
 date = time.strftime("%Y-%m-%d_%H:%M:%S")
-# angle of the horn form the horizontal perp to support axis
+# angle of the horn from the horizontal perp to support axis
 angle_perp = "48.70"
-# angle of the horn form the horizontal along the support axis
+# angle of the horn from the horizontal along the support axis
 angle_par = "0"
 # temperatures
 temperatureOutside = "25.4"

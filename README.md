@@ -1,2 +1,2 @@
 # CMB
-Columbia Physics EKA Lab CMB Experiment Code
+Columbia Physics EKA Lab CMB Experiment
