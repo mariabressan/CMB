@@ -28,7 +28,7 @@ duration = 1*30
 # e.g "./Data/2016-11-10_10:20:50_Readout.txt"
 # the extension must be a .txt file
 path = "./Data/BW"
-extension = "_LCal2_BNC.txt"
+extension = input("Enter the file name: ")
 
 calibrator_boolean = 0
 if calibrator_boolean:
@@ -45,7 +45,7 @@ date = time.strftime("%Y-%m-%d_%H:%M:%S")
 # angle of the horn from the horizontal perp to support axis
 angle_perp = "48.70"
 # angle of the horn from the horizontal along the support axis
-angle_par = "0"
+angle_par = input("Enter the angle: ")
 # temperatures
 temperatureOutside = "25.4"
 temperatureCalibrator = "Low"
