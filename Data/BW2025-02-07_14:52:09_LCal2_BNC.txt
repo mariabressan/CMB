@@ -3,7 +3,7 @@
 # Pointing Position of the Horn: Sky
 # Angle pointing (from horizontal perpendicular to supporting axis): 48.70
 # Angle pointing (from horizontal parallel to supporting axis): 0
-# Calibrator used: NO
+# Calibrator used: YES
 # Temperature Outside (in celcius): 25.4
 # Temperature of the calibrator (in celcius): Low
 # Weather: very clear
